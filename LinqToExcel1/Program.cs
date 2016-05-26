@@ -124,8 +124,6 @@ namespace LinqToExcel1 {
             Console.Read();
 
 
-
-
         }
 
         public static void WriteCSV() {
